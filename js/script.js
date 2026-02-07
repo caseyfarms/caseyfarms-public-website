@@ -390,7 +390,7 @@
     if (plugins.rdGoogleMaps.length) {
       var i;
 
-      $.getScript("//maps.google.com/maps/api/js?key=AIzaSyAwH60q5rWrS8bXwpkZwZwhw9Bw0pqKTZM&sensor=false&libraries=geometry,places&v=3.7", function () {
+      $.getScript("//maps.google.com/maps/api/js?key=&sensor=false&libraries=geometry,places&v=3.7", function () {
         var head = document.getElementsByTagName('head')[0],
           insertBefore = head.insertBefore;
 
