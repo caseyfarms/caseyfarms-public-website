@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\SpencerCasey\\Documents\\GitHub\\caseyfarms-public-website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SpencerCasey\\Documents\\GitHub\\caseyfarms-public-website\\Crops.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Crops.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SpencerCasey\\Documents\\GitHub\\caseyfarms-public-website\\Contact.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Contact.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SpencerCasey\\Documents\\GitHub\\caseyfarms-public-website\\Cattle.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cattle.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SpencerCasey\\Documents\\GitHub\\caseyfarms-public-website\\Gallery.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gallery.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SpencerCasey\\Documents\\GitHub\\caseyfarms-public-website\\Blog.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Blog.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SpencerCasey\\Documents\\GitHub\\caseyfarms-public-website\\Crops.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Crops.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Contact.html",
+              "DocumentMoniker": "C:\\Users\\SpencerCasey\\Documents\\GitHub\\caseyfarms-public-website\\Contact.html",
+              "RelativeDocumentMoniker": "Contact.html",
+              "ToolTip": "C:\\Users\\SpencerCasey\\Documents\\GitHub\\caseyfarms-public-website\\Contact.html",
+              "RelativeToolTip": "Contact.html",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-11T02:08:46.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gallery.html",
+              "DocumentMoniker": "C:\\Users\\SpencerCasey\\Documents\\GitHub\\caseyfarms-public-website\\Gallery.html",
+              "RelativeDocumentMoniker": "Gallery.html",
+              "ToolTip": "C:\\Users\\SpencerCasey\\Documents\\GitHub\\caseyfarms-public-website\\Gallery.html",
+              "RelativeToolTip": "Gallery.html",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-11T02:06:12.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Crops.html",
               "DocumentMoniker": "C:\\Users\\SpencerCasey\\Documents\\GitHub\\caseyfarms-public-website\\Crops.html",
               "RelativeDocumentMoniker": "Crops.html",
@@ -51,17 +81,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cattle.html",
-              "DocumentMoniker": "C:\\Users\\SpencerCasey\\Documents\\GitHub\\caseyfarms-public-website\\Cattle.html",
-              "RelativeDocumentMoniker": "Cattle.html",
-              "ToolTip": "C:\\Users\\SpencerCasey\\Documents\\GitHub\\caseyfarms-public-website\\Cattle.html",
-              "RelativeToolTip": "Cattle.html",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-11T01:55:03.357Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
